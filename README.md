@@ -39,3 +39,27 @@ Step 2:
 
 Step 3:
 ![image](https://user-images.githubusercontent.com/113325376/217540759-c533a20e-dda5-4851-9b84-0861076b4840.png)
+
+
+Experiment 7:
+
+Step 1:
+![Screenshot (118)](https://user-images.githubusercontent.com/113325376/217532823-50618393-2b03-4719-aa38-dce0566bfb54.png)
+
+Step 2:
+![Screenshot (119)](https://user-images.githubusercontent.com/113325376/217532709-a3846350-0e1a-4dbe-b86a-be78a18951c3.png)
+
+Step 3:
+![Screenshot (120)](https://user-images.githubusercontent.com/113325376/217532954-dc5ea544-9918-4755-8640-f56f9151635a.png)
+
+Step 4:
+![image](https://user-images.githubusercontent.com/113325376/217533741-3168e417-1c88-4341-8017-6c798f43505a.png)
+
+Step 5:
+![image](https://user-images.githubusercontent.com/113325376/217533832-2e7d13f4-aad5-43e3-b967-352157b8b311.png)
+
+Step 6:
+![image](https://user-images.githubusercontent.com/113325376/217533906-3afd45fe-c3aa-4809-a297-928e22a42640.png)
+
+Step 7:
+![image](https://user-images.githubusercontent.com/113325376/217534073-e374a62f-ed53-4766-a0ef-5bcccf56247c.png)
