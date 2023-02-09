@@ -26,3 +26,16 @@ Step 8:
 
 Step 9:
 ![image](https://user-images.githubusercontent.com/113325376/217539119-dd64e3a3-56d9-4dc8-a09a-97e5ff34aff8.png)
+
+
+
+Experiment 5:
+
+Step 1:
+![image](https://user-images.githubusercontent.com/113325376/217540180-a0443d23-b88f-43fa-bbc5-bbd9d358858b.png)
+
+Step 2:
+![image](https://user-images.githubusercontent.com/113325376/217540808-d1de8130-f36b-4f3c-90a9-6113e1595114.png)
+
+Step 3:
+![image](https://user-images.githubusercontent.com/113325376/217540759-c533a20e-dda5-4851-9b84-0861076b4840.png)
