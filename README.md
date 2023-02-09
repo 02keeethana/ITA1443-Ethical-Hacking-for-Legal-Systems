@@ -75,3 +75,21 @@ Experiment 8:
  
  Step 3:
  ![Screenshot (101)](https://user-images.githubusercontent.com/113325376/217535010-88186ce4-fd43-4f13-8c34-da3955287dfa.png)
+ 
+ 
+ Experiment 10:
+ 
+ Step 1:
+ ![image](https://user-images.githubusercontent.com/113325376/217537637-8270f592-bf55-4c7f-af32-17ca784d0098.png)
+ 
+ Step 2:
+ ![image](https://user-images.githubusercontent.com/113325376/217537772-090350fb-d065-4329-ae8e-7a967d57e347.png)
+ 
+ Step 3:
+ ![image](https://user-images.githubusercontent.com/113325376/217537871-ae47f02e-f2ea-4a0d-bce1-a14bb4c127e2.png)
+ 
+ Step 4:
+ ![image](https://user-images.githubusercontent.com/113325376/217537970-82440a50-0c9d-41a6-bf89-54e49e1ae89d.png)
+ 
+ Step 5:
+ ![image](https://user-images.githubusercontent.com/113325376/217538165-73f5aff8-50f9-430d-a879-ac1b477d545f.png)
